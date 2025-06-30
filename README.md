@@ -1,6 +1,6 @@
 ## Objective
 
-To develop a data-driven solution for pharmaceutical inventory analysis and optimization that reduces costs, minimizes stockouts and expiries, and improves overall inventory efficiency for pharmacies, hospitals, and healthcare supply chains.
+To develop a data-driven solution for **pharmaceutical inventory analysis and optimization** that reduces costs, minimizes stockouts and expiries, and improves overall inventory efficiency for pharmacies, hospitals, and healthcare supply chains.
 
 ## Business Problem
 

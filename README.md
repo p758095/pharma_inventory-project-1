@@ -1,9 +1,27 @@
-# 💊 Pharmaceutical Inventory Management System
+## Objective
 
-## About the Project
-
-A smart inventory management tool for European pharmaceutical distributors. It helps optimize stock, reduce expiry losses, spot under/over-performing products, and compare Retail vs. Hospital sales channels—enabling better sales and inventory planning.
+To develop a data-driven solution for pharmaceutical inventory analysis and optimization that reduces costs, minimizes stockouts and expiries, and improves overall inventory efficiency for pharmacies, hospitals, and healthcare supply chains.
 
 ## Business Problem
 
-Pharma distributors struggle with stock allocation, expiry waste, understanding product performance, and channel efficiency. Our system delivers clear insights to minimize waste, maximize sales, and support faster, data-driven decisions.
+Pharmaceutical organizations face challenges in managing inventory, including:
+- Overstocking, leading to increased carrying costs and potential wastage due to expiry.
+- Stockouts, resulting in missed sales and compromised patient care.
+- Inefficient procurement and replenishment decisions due to lack of accurate demand forecasting.
+- Difficulty in tracking expiry dates and high-value/critical medicines.
+
+## Constraints
+
+- Data Availability: Historical sales and inventory data must be available and of sufficient quality.
+- Regulatory Compliance: All processes and recommendations must comply with pharmaceutical regulations and standards.
+- Expiry Management: The solution must account for product shelf life and avoid expired stock.
+- Scalability: The approach should handle a wide range of SKUs and transaction volumes.
+- Integration: The solution should be adaptable for integration with existing inventory management systems.
+
+## Success Criteria
+
+- Reduction in inventory holding costs without increasing stockout rates.
+- Decrease in expired or wasted stock by proactive identification and management.
+- Improved service levels (product availability) for critical and high-demand medicines.
+- Accurate and actionable demand forecasts for procurement planning.
+- Positive user feedback from inventory managers and stakeholders.
